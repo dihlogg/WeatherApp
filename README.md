@@ -1,13 +1,13 @@
+# WeatherApp
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.3.
+
 ## What's been learned
 - how to create new component
 - using Angular Component Service to call API from outside
 - using RapidAPI to get Real-Time data
 - how to transmit dynamic elements to Angular Component HTML
 - how to export Interface and Class elements to inside Angular Component Service
-
-# WeatherApp
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.3.
 
 ## Development server
 
