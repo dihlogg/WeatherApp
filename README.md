@@ -32,4 +32,3 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 - using RapidAPI to get Real-Time data
 - how to transmit dynamic elements to Angular Component HTML
 - how to export Interface and Class elements to inside Angular Component Service
-- biết cách export các thuộc tính của interface và class vào bên trong angular component service
