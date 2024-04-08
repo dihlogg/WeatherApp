@@ -25,3 +25,11 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## What's been learned
+- how to create new component
+- using Angular Component Service to call API from outside
+- using RapidAPI to get Real-Time data
+- how to transmit dynamic elements to Angular Component HTML
+- how to export Interface and Class elements to inside Angular Component Service
+- biết cách export các thuộc tính của interface và class vào bên trong angular component service
